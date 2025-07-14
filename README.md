@@ -1,7 +1,5 @@
 📄 README.md
-markdown
-Copy
-Edit
+
 # 🧩 Flask CRUD App with Authentication & Dashboard
 
 This is a full-featured **Flask Web Application** that includes:
@@ -43,12 +41,6 @@ All dependencies are listed in `requirements.txt`:
 ```text
 Flask==2.3.3
 Flask_SQLAlchemy==3.1.1
-```
-
-You can regenerate the list using:
-
-```bash
-pip freeze > requirements.txt
 ```
 
 ---
