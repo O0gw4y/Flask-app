@@ -97,3 +97,18 @@ Flask-app/
 │   ├── signup.html
 │   ├── dashboard.html
 │   └── update.html
+✅ To-Do / Enhancements (Optional)
+🔑 Password hashing (Flask-Bcrypt)
+
+📬 Email verification
+
+🔒 CSRF protection (Flask-WTF)
+
+📁 File uploads
+
+🌐 Deployment (e.g., Heroku, Render, Railway)
+
+🧑‍💻 Author
+Taha Malik
+
+Feel free to open issues or PRs for improvements or suggestions.
